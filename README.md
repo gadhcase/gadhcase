@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gadhcase
-- 👀 I’m Security
+- 👀 I’m  Student
 - 🌱 I’m currently learning Computer science 
 - 💞️ I’m looking to collaborate on Ethical hacking and cyber teams
 - 📫 How to reach me ...
